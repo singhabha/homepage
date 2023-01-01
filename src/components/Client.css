@@ -1,0 +1,22 @@
+.carousel-control-prev-icon {
+  background-image: none !important;
+  /* color: black !important; */
+  /* background-color: black; */
+}
+.carousel-control-next-icon {
+  background-image: none !important;
+  /* color: gray !important; */
+}
+.heading {
+  font-size: 2rem;
+}
+.btn-outline-danger {
+  --bs-btn-hover-bg: rgba(255, 255, 255, 0.358);
+  /* --bs-btn-hover-border-color: aliceblue; */
+}
+/* .port-btn:hover {
+  color: aliceblue;
+} */
+/* .client-img{
+    z-index: 0 !important;
+  } */
